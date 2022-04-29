@@ -8,6 +8,6 @@ public class U6_L1_Activity_One{
         arr[1] = scan.nextInt();
         arr[2] = scan.nextInt();
         System.out.println("Contents: " + arr[0] + " " + arr[1] + " " + arr[2]);
-        System.out.println("Sum: " + arr[0] + arr[1] + arr[2]);
+        System.out.println("Sum: " + (arr[0] + arr[1] + arr[2]));
   }
 }
